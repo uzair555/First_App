@@ -5,7 +5,7 @@ import * as AuthActions  from "src/app/auth/store/auth.actions";
 export interface State {
     user: User;
 }
-
+ 
 const initialState={
     user:null
 }
